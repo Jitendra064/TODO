@@ -1,4 +1,3 @@
-import React from "react";
 import MakeNote from "./components/MakeNote";
 
 function App() {
